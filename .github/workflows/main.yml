@@ -10,7 +10,7 @@ on:
 
 jobs:
   job_testing:
-    runs-on: ubuntu-latestsdfsd
+    runs-on: ubuntu-latest
     
     steps:
     - name: Print Hello Message in Testing
