@@ -1,4 +1,4 @@
-name: first-github-action
+name: First-GitHub-action
 env:
   APPLICATION_NAME   : "MyFlask"
   DEPLOY_PACKAGE_NAME: "flask-deploy-ver-${{github.sha}}"
