@@ -20,6 +20,8 @@ jobs:
         echo "Hello Message1"
         echo "Hello Message2"
         echo "Application name: ${{env.APPLICATION_NAME}}"
+    - name: List current folder
+      run: ls -la
 
   job_deploy:
     runs-on: ubuntu-latest
