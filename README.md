@@ -1,4 +1,4 @@
 # PowerShell-scripts
 Статус последнего Deployment:<br>
-<img src="https://github.com/srgkiryanov84/PowerShell-scripts/workflows/First-GitHub-action/badge.svg?branch=main"><br>
+<img src=[![First-GitHub-action](https://github.com/srgkiryanov84/PowerShell-scripts/actions/workflows/main.yml/badge.svg?branch=main)]><br>
 Мои скрипты на Posh
